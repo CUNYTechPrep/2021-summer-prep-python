@@ -2,7 +2,7 @@
 
 # Setup for Mac Users
 ---
-1. Download and install [Anaconda](https://repo.anaconda.com/archive/Anaconda3-2020.07-MacOSX-x86_64.pkg).
+1. Download and install [Anaconda](https://www.anaconda.com/products/individual).
 
 2. Download and install [iTerm2](https://iterm2.com/downloads.html).
 
