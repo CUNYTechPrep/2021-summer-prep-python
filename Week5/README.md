@@ -1,4 +1,5 @@
 
+
 # Agenda
 
 1. Review Week 3's HW
@@ -8,7 +9,6 @@
 5. Lecture / Group Exercise
 6. Open to any and all questions.
 7. [Final Feedback Survey](https://forms.gle/ZBVBQPmtqh48b6hZA)
-
 
 # If your github is being silly...
 If you're getting the following error... 
@@ -21,3 +21,10 @@ Follow the instructions here:
 
 If you are not being prompted to give you password, follow these instructions:
 * https://docs.github.com/en/get-started/getting-started-with-git/updating-credentials-from-the-macos-keychain#deleting-your-credentials-via-the-command-line
+
+
+# (Optional) If you want to update your fork with the Week 5 files.
+
+1. Updating your fork.
+	* `git fetch upstream`
+	* `git merge upstream/master`
